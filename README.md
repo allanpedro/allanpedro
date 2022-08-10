@@ -1,8 +1,8 @@
 ### Olá! eu sou o Allan Pedro
 
 - Atualmente trabalho como Analista de TI, suporte e infra
-- Estudando Cloud Computing e desenvolvimento front-end
-- Sou formado em tecnologia em segurança da informação e redes de computadores
+- Estudando Cloud Computing 
+- Sou formado em tecnologia em segurança da informação e especializado em redes de computadores e desenvolvimento web
 - Contate-me pelo e-mail: allan.caldi@outlook.com
 
 <div>
