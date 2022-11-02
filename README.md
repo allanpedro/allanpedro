@@ -1,8 +1,8 @@
 ### Olá! eu sou o Allan Pedro
 
-- Procurando recolocação no mercado de trabalho
-- Estudando Cloud Computing 
-- Sou formado em tecnologia em segurança da informação e especializado em redes de computadores e desenvolvimento web
+- Analista de Suporte
+- Estudante de ADS 
+- Sou graduado em tecnologia em segurança da informação e especializado em redes de computadores e desenvolvimento web
 - Contate-me pelo e-mail: allan.caldi@outlook.com
 
 <div>
