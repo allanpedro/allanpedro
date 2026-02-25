@@ -5,7 +5,7 @@
 - Segurança da Informação
 - Redes
 - Gestão de TI
-Contate-me pelo e-mail: allan.caldi@outlook.com
+- Contate-me pelo e-mail: allan.caldi@outlook.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Allan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
