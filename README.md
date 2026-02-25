@@ -1,9 +1,11 @@
 ### Olá! eu sou o Allan Pedro
 
-- Analista de Suporte
-- Estudante de Análise e Desenvolvimento de Sistemas
-- Graduado em tecnologia em segurança da informação e especializado em redes de computadores e desenvolvimento web
-- Contate-me pelo e-mail: allan.caldi@outlook.com
+Suporte Técnico
+ADS
+Segurança da Informação
+Redes
+Gestão de TI
+Contate-me pelo e-mail: allan.caldi@outlook.com
 
 <div>
   <a href="https://github.com/allanpedro">
